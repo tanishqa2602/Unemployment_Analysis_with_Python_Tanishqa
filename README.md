@@ -48,11 +48,3 @@ python two_code_alpha.py
 - A negative correlation between GDP growth and unemployment rate was observed.
 - Unemployment trends stabilized post-2020 as GDP growth improved.
 
-## Contribution
-Feel free to fork this repository, report issues, or submit pull requests to enhance the project.
-
-## License
-This project is licensed under the MIT License.
-
----
-Created by [Your Name]
